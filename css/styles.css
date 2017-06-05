@@ -1,10 +1,10 @@
-margin:  auto;
+.head{
+  background-image: url(../images/backgrounds/landing.jpg);
+}
+.top{
+  margin:  auto;
   text-align: center;
 }
--body{
- margin: 0px;
-  padding: 0px;
-  border: 0px;
 .main{
   margin-right: 0px;
 padding-right: 0px;
@@ -73,7 +73,7 @@ padding-right: 0px;
 }
 .b:hover{
   background-color: grey;
- opacity:0.5;
+  opacity:0.5;
   color: black;
 }
 .c{
@@ -123,6 +123,7 @@ height: 300px;
 .don{
   background-color: #F15A29;
   height: 300px;
+
 }
 
 .lop{
@@ -132,4 +133,3 @@ height: 300px;
 footer{
   padding-top: 60px;
 }
-View
