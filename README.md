@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Independent Project #2
+=======
+# Independent Project
+>>>>>>> ip2branch
 
 ## Instructions
   1) Please fork the Moringa School **mpft1-ip** repo to your own account.
@@ -8,5 +12,9 @@
   3) Complete the independent project.
 
   4) Push your commits up to your forked repo.
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> ip2branch
   5) Send the link pointing to your repo to your Technical mentor
