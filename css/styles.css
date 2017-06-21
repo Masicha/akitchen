@@ -53,57 +53,57 @@ padding-right: 0px;
   opacity: 0.5;
   border-style: none;
 }
-.a{
+.breakfast{
   background-image: url(../images/foodtop/breakfast.jpg);
   height: 200px;
   color: white;
   text-align:center;
 
 }
-.a:hover{
+.breakfast:hover{
   background-color: grey;
   opacity:0.5;
   color: black;
 }
-.b{
+.lunch{
   background-image: url(../images/foodtop/lunch.jpg);
   height: 200px;
   color: white;
   text-align:center;
 }
-.b:hover{
+.lunch:hover{
   background-color: grey;
   opacity:0.5;
   color: black;
 }
-.c{
+.dinner{
   background-image: url(../images/foodtop/dinner.jpg);
   height: 200px;
   color: white;
   text-align:center;
 }
-.c:hover{
+.dinner:hover{
   background-color: grey;
   opacity:0.5;
   color: black;
 }
-#d{
+#happy{
   background-color: grey;
   height: 100px;
   color: white;
   text-align:center;
 }
-#d:hover{
+#happy:hover{
   background-color: #F15A29;
   color: black;
 }
-#e{
+#party{
   background-color: #F15A29;
   height: 100px;
   color: white;
   text-align:center;
 }
-#e:hover{
+#party:hover{
   background-color: grey;
   color: black;
 }
